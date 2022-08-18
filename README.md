@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **aman.bahuguna@coloredcow.in**
 
-- ⚡ Fun fact : **I think I am funny**
+- ⚡ Fun fact : **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
