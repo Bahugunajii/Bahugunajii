@@ -1,7 +1,7 @@
  [![MasterHead](https://media0.giphy.com/headers/tinganho/md7tvztxjaih.gif)](https://Bahugunajii.io)
 <h1 align="center">Hi 👋, I'm Aman Bahuguna</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahugunajii&label=Profile%20views&color=0e75b6&style=flat" alt="bahugunajii" /> </p>
 
