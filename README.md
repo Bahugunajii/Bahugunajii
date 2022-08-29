@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/amanbahuguna12" target="blank"><img src="https://img.shields.io/twitter/follow/amanbahuguna12?logo=twitter&style=for-the-badge" alt="amanbahuguna12" /></a> </p>
 
-- 🔭 I’m currently working on **AvantiFellows**
+- 🔭 Currently working on **AvantiFellows**
 
-- 🌱 I’m currently learning **Phoenix(a web framework for the Elixir programming language)**
+- 🌱 Currently learning **Phoenix(a web framework for the Elixir programming language)**
 
-- 💬 Ask me about : **Laravel, PHP, HTML, CSS**
+- 💬 Ask me about : **Anything you want!**
 
-- 📫 How to reach me : **aman.bahuguna@coloredcow.in**
+- 📫 Contact : **aman.bahuguna@coloredcow.in**
 
 - ⚡ Fun fact : **I think I am funny XD**
 
