@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanbahuguna12" target="blank"><img src="https://img.shields.io/twitter/follow/amanbahuguna12?logo=twitter&style=for-the-badge" alt="amanbahuguna12" /></a> </p>
 
-- 🔭 Currently working on **Avanti Fellows**
+- 🔭 Currently working for **Avanti Fellows**
 
 - 🌱 Currently learning **Phoenix(a web framework for the Elixir programming language)**
 
