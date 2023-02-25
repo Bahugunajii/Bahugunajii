@@ -23,7 +23,7 @@
 - [Avanti Fellows](https://github.com/avantifellows) -  An organisation providing academic guidance & high-quality training to low-income students.
 
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayush8923&theme=react-dark)](https://github.com/Ayush8923/github-readme-activity-graph)
+[![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bahugunajii&theme=react-dark)](https://github.com/Ayush8923/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
