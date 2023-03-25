@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **Phoenix(a web framework for the Elixir programming language)**
 
-- 💬 Ask me about : **Anything you wants!**
+- 💬 Ask me about : **Anything you want!**
 
 - 📫 Contact : **aman.bahuguna@coloredcow.in**
 
