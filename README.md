@@ -7,15 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/amanbahuguna12" target="blank"><img src="https://img.shields.io/twitter/follow/amanbahuguna12?logo=twitter&style=for-the-badge" alt="amanbahuguna12" /></a> </p>
 
-- 🔭 Currently working for **Avanti Fellows**
-
-- 🌱 Currently learning **Phoenix(a web framework for the Elixir programming language)**
-
-- 💬 Ask me about : **Anything you want!**
-
 - 📫 Contact : **aman.bahuguna@coloredcow.in**
 
-- ⚡ Fun fact : **I think I am funny XD**
 
 ### :computer: Work
 
