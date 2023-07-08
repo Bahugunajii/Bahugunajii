@@ -13,7 +13,7 @@
 ### :computer: Work
 - [DLF Engage](https://engage.dlffoundation.in/) - The DLF Engage platform has been designed to provide an intuitive user experience that makes it easy for individuals to register as volunteers and find volunteering opportunities that match their interests and skills
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
-- [Avanti Fellows](https://github.com/avantifellows) -  An organisation providing academic guidance & high-quality training to low-income students.
+- [Avantifellows](https://github.com/avantifellows) -  An organisation providing academic guidance & high-quality training to low-income students.
 
 
 [![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bahugunajii&theme=react-dark)](https://github.com/Ayush8923/github-readme-activity-graph)
