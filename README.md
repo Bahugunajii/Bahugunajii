@@ -1,5 +1,5 @@
 <!--  [![MasterHead](https://media0.giphy.com/headers/tinganho/md7tvztxjaih.gif)](https://Bahugunajii.io) -->
-<h1 align="center">Hey 👋, Im Aman Bahuguna</h1>
+<h1 align="center">Hey 👋, I'm Aman Bahuguna</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
