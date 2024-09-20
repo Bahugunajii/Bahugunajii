@@ -36,7 +36,6 @@ Hi, I’m Aman Bahuguna, a technology enthusiast with a strong commitment to ope
     </a>
 </div>
 
-# 📊GitHub Stats :
 <h2>&#x1f4c8; GitHub Stats</h2>
 <p align="left">
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bahugunajii&theme=tokyonight" width="30%">
