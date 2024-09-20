@@ -18,7 +18,7 @@ I’m Aman Bahuguna, a technology enthusiast committed to open-source. I’m alw
 </p>
 
 ### :computer: Work
-- [Ketty]([https://ketida.community](https://ketty.community/)/) - A single source book production software
+- [Ketty](https://ketty.community/) - A single source book production software
 - [DLF Engage](https://engage.dlffoundation.in/) - The DLF Engage platform has been designed to provide an intuitive user experience that makes it easy for individuals to register as volunteers and find volunteering opportunities that match their interests and skills
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations
 - [Avantifellows](https://github.com/avantifellows) -  An organisation providing academic guidance & high-quality training to low-income students.
