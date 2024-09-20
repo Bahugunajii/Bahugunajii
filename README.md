@@ -5,7 +5,7 @@
  -->
 ## Hello Forks, it’s wonderful to see you here! :)
 
-Hi, I’m Aman Bahuguna, a technology enthusiast with a strong commitment to open-source. I’m always open to exploring collaborations on innovative and disruptive projects. Let’s connect and create something amazing!"
+I’m Aman Bahuguna, a technology enthusiast committed to open-source. I’m always open to exploring collaborations on innovative and disruptive projects. Let’s connect and create something amazing!"
 <!-- 📫 How to reach me: Email - amanbahuguna009@gmail.com -->
 
 <h3 align="left">Connect with me:</h3>
