@@ -10,7 +10,7 @@ I’m Aman Bahuguna, a technology enthusiast committed to open-source. I’m alw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/amanbahuguna12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="amanbahuguna12" height="30" width="40" /></a>
+ <a href="mailto:amanbahuguna009@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="amanbahuguna12" height="30" width="40" /></a>
 <a href="https://twitter.com/amanbahuguna12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanbahuguna12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-bahuguna-aa0476199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-bahuguna-aa0476199" height="30" width="40" /></a>
 <a href="https://fb.com/aman bahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman bahuguna" height="30" width="40" /></a>
